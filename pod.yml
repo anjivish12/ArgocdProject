@@ -5,6 +5,7 @@ metadata:
   labels:
     app: myapp
     app1: myapp1
+    app2: myapp2
 spec:
   containers:
     - name: nginxcon
